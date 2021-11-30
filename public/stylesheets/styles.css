@@ -59,3 +59,7 @@ body{
     /* display:flex;
     flex-direction: column; */
 }
+
+.cerveza{
+    width: 100px;
+}
